@@ -5,6 +5,6 @@ class Greeter {
     }
 };
 
-var greeter = new Greeter("Hello, developers!");
+var greeter = new Greeter("Hello, Visual Studio Code!");
     
 document.body.innerHTML = greeter.greet();
